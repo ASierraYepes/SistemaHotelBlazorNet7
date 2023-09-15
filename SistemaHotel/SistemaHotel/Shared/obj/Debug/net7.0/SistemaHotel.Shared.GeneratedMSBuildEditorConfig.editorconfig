@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = SistemaHotel.Shared
-build_property.ProjectDir = C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel\Shared\
+build_property.ProjectDir = C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Shared\

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYQQcwxn/7bRiPPeHgLBIIT5wWIgJd/1NpZxXSNoXqVmWPhHvQ/WnVqpTkqmdsWA0V/n6LTmxns1C+p2wXur3A==",
+  "dgSpecHash": "FdwBY9Ufynk9rHrqAn6Qx19KbTsMrlrhAvndN1i6aF2ZWkikz1rVo/HKlZsjFePhdt81uflrpu1sJ741G1gfgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Server\\SistemaHotel.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

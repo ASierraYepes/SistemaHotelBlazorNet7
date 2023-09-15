@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rXsrtrUPmrBhLJe6w2c9EoCQHZzAGkeqCAFyg67Dhd1uDfUMMZpt2tMtoy32C3bIVG7RVv9GM0/PLpdEgQd2Pw==",
+  "dgSpecHash": "yi3fbNe/dsDQLnRuOnkscn5sPNLSTVVlzi5IIbOulhWP82vL1PMtq41gkcMN0l8imiXe5W3JyXjUKaP4zPCxkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

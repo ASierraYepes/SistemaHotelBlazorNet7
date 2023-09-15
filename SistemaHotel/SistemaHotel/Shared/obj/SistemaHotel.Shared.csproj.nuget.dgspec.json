@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
         "projectName": "SistemaHotel.Shared",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

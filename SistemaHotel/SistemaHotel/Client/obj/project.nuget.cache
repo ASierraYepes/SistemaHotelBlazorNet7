@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "05IG7BKbg0RY8zL89pzEcE/e/ZOkwLrdE+bve6ZS07MVHpsDGFgwsAwG545ApadtI9ba8nxsDWqM04KzZtPXiw==",
+  "dgSpecHash": "xjSY921HlzHhmXsnvDqIQRbgUTSUPnIhtoDcmTRtf/QZNgegM3YftR21WWuxrvFFizqbPgsR92VX8gnbsTY5oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Client\\SistemaHotel.Client.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documentos\\Web developer\\Proyectos\\Blazor .Net\\SistemaHotelBlazorNet7\\SistemaHotel\\SistemaHotel\\Client\\SistemaHotel.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\blazored.sessionstorage\\2.3.0\\blazored.sessionstorage.2.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\closedxml\\0.101.0\\closedxml.0.101.0.nupkg.sha512",
@@ -133,7 +133,7 @@
     "C:\\Users\\andre\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.7.nupkg.sha512"
   ],
   "logs": []
 }
