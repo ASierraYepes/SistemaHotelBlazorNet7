@@ -218,7 +218,9 @@ C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\102_Siste
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel\Server\obj\Debug\net7.0\SistemaHotel.Server.pdb
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel\Server\obj\Debug\net7.0\SistemaHotel.Server.genruntimeconfig.cache
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\102_SistemaHotelBlazorNet7-main\SistemaHotel\SistemaHotel\Server\obj\Debug\net7.0\ref\SistemaHotel.Server.dll
+C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\SistemaHotel.Client.staticwebassets.runtime.json
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\appsettings.json
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
@@ -227,8 +229,6 @@ C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHo
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\SistemaHotel.Client.staticwebassets.runtime.json
-C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\appsettings.json
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\SistemaHotel.Server.staticwebassets.runtime.json
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\SistemaHotel.Server.exe
 C:\Users\andre\OneDrive\Documentos\Web developer\Proyectos\Blazor .Net\SistemaHotelBlazorNet7\SistemaHotel\SistemaHotel\Server\bin\Debug\net7.0\SistemaHotel.Server.deps.json

@@ -210,14 +210,14 @@
       "netstandard.dll": "sha256-Cr6slBs\/R2v2t\/vecFDHbQHakbEhar0adYu0YemwiXI=",
       "System.Private.CoreLib.dll": "sha256-dDw5nzGJhW1jOjGfSJcs\/Mi4KQ+DZygXnoK+vJ+jHyk=",
       "SistemaHotel.Shared.dll": "sha256-lJVKYrlGdVJJDkS6HX56X284DGQ0TTBntC96\/iq2oys=",
-      "SistemaHotel.Client.dll": "sha256-WquilkYG4qALi4ob2RtJdavin6wrGlz1Oe6go7ma1vQ="
+      "SistemaHotel.Client.dll": "sha256-KrzicdNW6xIloLdviUWkGn3xSovDxR9itobQJdiQ1Bo="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "SistemaHotel.Shared.pdb": "sha256-6fXs8OKvpqjM9q9cQzxhh3V3eWG4ozRuQbgQfbsFvJw=",
-      "SistemaHotel.Client.pdb": "sha256-MVxdPlApjm9Z16PzKArgqt444wwp1O4YlGzYq7fQrEg="
+      "SistemaHotel.Client.pdb": "sha256-qC+BJAaQLcI1WYGziTngUuO3BGrlGmsgz39dGLpXonU="
     },
     "runtime": {
       "dotnet.7.0.11.iodzqny1qu.js": "sha256-RtIVigdAD1mUvR4pxoKyD8kcQgw4INP81v+PVSqkeQY=",
