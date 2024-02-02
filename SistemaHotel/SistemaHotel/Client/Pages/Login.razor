@@ -14,6 +14,7 @@
 
     <MudTextField T="string"
                   @bind-Value="@usuarioLogin.correo"
+                  Placeholder="admin@gmail.com"
                   Label="Correo"
                   Variant="Variant.Outlined"
                   Class="my-6"
@@ -22,6 +23,7 @@
 
     <MudTextField @bind-Value="@usuarioLogin.clave"
                   Label="Contraseña"
+                  Placeholder="123"
                   Variant="Variant.Outlined"
                   InputType="@PasswordInput"
                   Adornment="Adornment.End"
